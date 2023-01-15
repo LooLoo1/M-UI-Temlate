@@ -22,7 +22,7 @@ const Post = () => {
 		<CardMedia
 		component="img"
 		height="20%"
-		image="https://s0.tchkcdn.com/g-fG2Id1bCEj3UVvpltmj6JA/17/262994/1200x630/f/0/553_62476496_1081881648669549_393770582643859171_n.jpg"
+		image="https://media.istockphoto.com/id/579777970/pl/zdj%C4%99cie/wodospad-w-parku-narodowym-blue-mountains.jpg?s=612x612&w=0&k=20&c=2HourYMH1PUQK_L2eWCQOsD_Nliw_4AKMIedV4RAAu8="
 		alt="Paella dish"
 		/>
 		<CardContent>
